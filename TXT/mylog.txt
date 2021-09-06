@@ -8,3 +8,4 @@ ZCZC W00 60 L06 Reading chapter 1 of Operating System Concept
 ZCZC W00 150 L06 Finish reading chapter 1 of Operating System Concept
 ZCZC W00 30 L04 Create index.md for my github page. Added 1 useful link too
 ZCZC W00 120 L06 Reading chapter 2 of Operating System Concept
+ZCZC W01 13 L06 Watch free software video from slide https://www.youtube.com/watch?v=Ag1AKIl_2GM
