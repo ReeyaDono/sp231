@@ -12,3 +12,4 @@ ZCZC W01 13 L06 Watch free software video from slide https://www.youtube.com/wat
 ZCZC W01 40 L11 Setting up Virtual Box and learn about import and export
 ZCZC W01 60 L12 Installing debian from scratch with guide from os course web
 ZCZC W01 60 L12 Trying SSH (powershell) and Putty, testing winscp
+ZCZC W01 45 L13 Trying some basic linux command
