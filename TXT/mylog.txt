@@ -14,3 +14,4 @@ ZCZC W01 60 L12 Installing debian from scratch with guide from os course web
 ZCZC W01 60 L12 Trying SSH (powershell) and Putty, testing winscp
 ZCZC W01 45 L13 Trying some basic linux command
 ZCZC W01 100 L14 Dressing up my virtual guest, changing username and hostname
+ZCZC W01 300 L16 Dressing up my github page with template from cbkadal's os 212 repository
