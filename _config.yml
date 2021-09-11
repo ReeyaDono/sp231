@@ -5,7 +5,6 @@ description: >-
   OS class is fun ngl
 google_analytics: "UA-89852122-13"
 author:           "ReeyaDono"
-address:          "Empty"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
