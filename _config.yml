@@ -1,21 +1,19 @@
 title:       "Operating Systems 2021-2 (OS212)"
-version:     "0024---10-Sep-2021"
+version:     "1"
 copyright:   "2021-2021"
 description: >- 
-  This Is How Me Do It!
-# baseurl: "" # e.g. /blog
-# url: ""     # e.g. http://example.com
+  OS class is fun ngl
 google_analytics: "UA-89852122-13"
-author:           "Cicak Bin Kadal"
-address:          "Pamulang"
+author:           "ReeyaDono"
+address:          "Empty"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://cbkadal.github.io/os212/"
+urlweb:           "https://reeyadono.github.io/os212/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/cbkadal/os212/"
-urlghpage:        "https://cbkadal.github.io/os212/"
+urlgithub:        "https://github.com/ReeyaDono/os212"
+urlghpage:        "https://reeyadono.github.io/os212/"
 keywords:         "jekyll, testing"
 github:           
   - metadata
