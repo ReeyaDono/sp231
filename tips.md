@@ -5,6 +5,10 @@ permalink: /TIPS/
 
 # TIPS
 
+Currently empty, will fill some soon.
+
+For now, just enjoy these random list.
+
 1. [One](https://en.wikipedia.org/wiki/1)<br>
 StarBucks ipsum dolor J.CO Do Not!
 McD ipsum dolor Wendy's Burger King.
