@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #808080;
+  background:       #1373b3;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -111,8 +111,8 @@
 }
 
 .navbar {
-  background-color: #222222;
-  color:            #FFFFFF;
+  background-color: #262626;
+  color:            #D7D7D7;
   font-size:        0.7em;
 }
 
@@ -128,7 +128,7 @@
 }
 
 .navbar ul li a:hover {
-  background:       blue;
+  background:       rgb(60, 140, 172);
   color:            #CCCCCC;
   font-size:        1em;
   font-weight:      bold;
