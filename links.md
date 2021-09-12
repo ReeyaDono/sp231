@@ -16,7 +16,7 @@ he teaches a lot of good stuff.
 2. [Beginner guide to SSH](https://youtu.be/qWKK_PNHnnA)<br>
 When i tried to login to my debian vm using SSH, i think it is really cool,
 this SSH thing. I want to know how these things works so i searched in youtube
-and found thid video.
+and found this video.
 3. [Free and Open Source Licenses](https://youtu.be/Q4GYrcca12c)<br>
 Will gives you introduction to some of the most used software license on Free and
 Open Source software.
