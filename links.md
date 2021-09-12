@@ -7,53 +7,19 @@ permalink: /LINKS/
 
 Will fill this one soon.
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [Git and Github in 30 minutes](https://www.youtube.com/watch?v=jG4Vs81kMlc)<br>
+A video guide by [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+. He will teach you all the basics of git and github if you somehow forget about it
+one day lmao. All of this 30 minutes information is enough for you to start using
+git and github right after you finish this video. Also check his other vids,
+he teaches a lot of good stuff.
+2. [Beginner guide to SSH](https://youtu.be/qWKK_PNHnnA)<br>
+When i tried to login to my debian vm using SSH, i think it is really cool,
+this SSH thing. I want to know how these things works so i searched in youtube
+and found thid video.
+3. [Free and Open Source Licenses](https://youtu.be/Q4GYrcca12c)<br>
+Will gives you introduction to some of the most used software license on Free and
+Open Source software.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
-
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
-
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
-
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
-
-7. [Seven](https://en.wikipedia.org/wiki/7)<br>
-Bonbon chupa chups cupcake bonbon lemon drops.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
-
-8. [Eight](https://en.wikipedia.org/wiki/8)<br>
-Tootsie roll I love soufflé I love chocolate.
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-
-9. [Nine](https://en.wikipedia.org/wiki/9)<br>
-KFC urna libero, in purus hana masa, tempor hokben lorem.
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-
-10. [Ten](https://en.wikipedia.org/wiki/10)<br>
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
 

@@ -16,4 +16,4 @@ ZCZC W01 45 L13 Trying some basic linux command
 ZCZC W01 100 L14 Dressing up my virtual guest, changing username and hostname
 ZCZC W01 300 L16 Dressing up my github page with template from cbkadal's os 212 repository
 ZCZC W01 30 L13 Watch regex and bash script video and trying to do it
-
+ZCZC W01 30 L04 Updating my links.md and tips.md
