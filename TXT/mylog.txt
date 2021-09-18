@@ -20,3 +20,4 @@ ZCZC W01 30 L04 Updating my links.md and tips.md
 ZCZC W01 120 L18 Learn awk, sed, grep
 ZCZC W02 100 L02 Synchronous class
 ZCZC W02 100 L09 GPG Keys and SHA256 checksum
+ZCZC W01 170 L09 Watch Cyber Security video
