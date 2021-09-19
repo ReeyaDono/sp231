@@ -22,3 +22,4 @@ ZCZC W02 100 L02 Synchronous class
 ZCZC W02 100 L09 (Assignment 4-13) GPG Keys and SHA256 checksum + peer link review
 ZCZC W02 170 L13 (Assignment 3) Watch Cyber Security video
 ZCZC W02 80 L12 (Assignment 2) Trying Demos, learning more about pointer and string in c
+ZCZC W02 120 L11 Reading Assignment
