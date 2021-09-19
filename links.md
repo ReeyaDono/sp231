@@ -20,6 +20,9 @@ and found this video.
 3. [Free and Open Source Licenses](https://youtu.be/Q4GYrcca12c)<br>
 Will gives you introduction to some of the most used software license on Free and
 Open Source software.
-
+4. [Pointers in C and C++](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)<br>
+Pointers may seems scary for beginner C and C++ programmer, well even for some people who
+used C and C++ for a while (like me) still think it's confusing. This website's explanation
+on pointers is easy to understand (at least for me). I think this might help you too.
 
 
