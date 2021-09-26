@@ -24,5 +24,8 @@ Open Source software.
 Pointers may seems scary for beginner C and C++ programmer, well even for some people who
 used C and C++ for a while (like me) still think it's confusing. This website's explanation
 on pointers is easy to understand (at least for me). I think this might help you too.
-
+5. [What is SWAP area](https://www.youtube.com/watch?v=0mgefj9ibRE)<br>
+For those who manually install debian os in their virtual machine, did you remember the
+disk partitioning step? Some of you must be wondering what is swap area and why
+should i allocate 257MB (or more) for it. This video will answer your question. 
 
