@@ -28,4 +28,7 @@ on pointers is easy to understand (at least for me). I think this might help you
 For those who manually install debian os in their virtual machine, did you remember the
 disk partitioning step? Some of you must be wondering what is swap area and why
 should i allocate 257MB (or more) for it. This video will answer your question. 
-
+6. [What is Embedded C/C++? Is it different from C/C++?](https://www.youtube.com/watch?v=KQBBWvY-s0o)<br>
+Some people say C is "human readable" Assembly. Hearing this statement actually make me curious about how
+to program a chip (like in POK) with C and by some GSGS i found some article about Embedded C. What is this Embedded C language, is it different from regular C? (spoiler: not really) This video will clear
+things up.
