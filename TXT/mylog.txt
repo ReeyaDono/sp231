@@ -40,3 +40,5 @@ ZCZC W04 120 L11 Reading Assignment
 ZCZC W04 30 L16 Adding new link
 ZCZC W04 15 L17 Peer link review
 ZCZC W04 120 L09 Trying demos and previous midterm problem
+ZCZC W05 115 L02 Synchronous class
+ZCZC W05 60 L14 Assignment 4
