@@ -32,3 +32,8 @@ should i allocate 257MB (or more) for it. This video will answer your question.
 Some people say C is "human readable" Assembly. Hearing this statement actually make me curious about how
 to program a chip (like in POK) with C and by some GSGS i found some article about Embedded C. What is this Embedded C language, is it different from regular C? (spoiler: not really) This video will clear
 things up.
+7. [TryHackMe! Basic Penetration Testing](https://youtu.be/xl2Xx5YOKcI)<br>
+TryHackMe is a free online platform for learning cyber security. In this video, John Hammond
+will demonstrate some basic peneteration testing from a kali linux machine. He also demonstrate
+some useful tools available in kali linux for peneteration testing and cyber security in
+general.
