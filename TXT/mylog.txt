@@ -45,3 +45,5 @@ ZCZC W05 60 L14 Assignment 4
 ZCZC W05 100 L11 Reading assignment
 ZCZC W05 60 L12 Trying demos
 ZCZC W05 30 L09 Adding new link and peer link review
+ZCZC W06 100 L02 Synchronous class
+ZCZC W06 30 L14 Assignment 4
