@@ -37,3 +37,5 @@ TryHackMe is a free online platform for learning cyber security. In this video, 
 will demonstrate some basic peneteration testing from a kali linux machine. He also demonstrate
 some useful tools available in kali linux for peneteration testing and cyber security in
 general.
+8. [Visualization of a fork call in C](https://youtu.be/QD9YKSg3wCc)<br>
+If fork is hard for you to understand, check this video out. CodeVault will explain fork() call in C with some visualization (simulation). Hope this will help you to understand fork() easier.
