@@ -53,3 +53,8 @@ ZCZC W06 30 L13 Assignment 3
 ZCZC W06 20 L15 Assignment 5
 ZCZC W06 30 L17 Assignment 7
 ZCZC W06 180 L06 Watching 7 hours linux course (currently on 3 hours mark)
+ZCZC W07 100 L02 Synchronous class
+ZCZC W07 120 L12 Trying demos
+ZCZC W07 180 L11 Reading Assignment
+ZCZC W07 30 L14 Assignment 4
+ZCZC W07 30 L09 adding new link and per link review
