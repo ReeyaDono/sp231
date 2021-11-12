@@ -41,3 +41,6 @@ general.
 If fork is hard for you to understand, check this video out. CodeVault will explain fork() call in C with some visualization (simulation). Hope this will help you to understand fork() easier.
 9. [Fighting Against Time: How to identify & abuse Race Conditions](https://youtu.be/bhHvT788juk)<br>
 This video explain how can we exploit Race Conditions (in CTF). This video told us that race conditions can cause some serious security problem that can be abused by hacker. This video also explain how to identify it.
+10. [Why should we learn Linux from scratch?](https://youtu.be/e6pTM0sOJl4)<br>
+This video explain what can we get from learning Linux from scratch. For those who think
+"why should we learn lfs, what can we get from it?" take a look at this short video.
