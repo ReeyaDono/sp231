@@ -58,3 +58,8 @@ ZCZC W07 120 L12 Trying demos
 ZCZC W07 180 L11 Reading Assignment
 ZCZC W07 30 L14 Assignment 4
 ZCZC W07 30 L09 adding new link and per link review
+ZCZC W08 100 L11 Reading assignment
+ZCZC W08 30 L12 Trying demos
+ZCZC W08 120 L09 lfs chapter 1-5
+ZCZC W08 30 L16 add new link
+ZCZC W08 15 L18 peer link review
