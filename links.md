@@ -44,3 +44,5 @@ This video explain how can we exploit Race Conditions (in CTF). This video told 
 10. [Why should we learn Linux from scratch?](https://youtu.be/e6pTM0sOJl4)<br>
 This video explain what can we get from learning Linux from scratch. For those who think
 "why should we learn lfs, what can we get from it?" take a look at this short video.
+11. [Top Five Reasons To Run Arch Linux](https://youtu.be/8RqFL92IEYs)<br>
+"I use Arch BTW". For those who have searched a lot of stuff about linux in youtube, you maybe have come across to a comment like that. So why Arch linux is so popular? This video explain about five reason to run Arch Linux.
