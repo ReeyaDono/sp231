@@ -63,3 +63,6 @@ ZCZC W08 30 L12 Trying demos
 ZCZC W08 120 L09 lfs chapter 1-5
 ZCZC W08 30 L16 add new link
 ZCZC W08 15 L18 peer link review
+ZCZC W09 60 L02 Synchronous class
+ZCZC W09 300 L09 LFS and Reading Assignment
+ZCZC W09 30 L09 Add link and peer link review
