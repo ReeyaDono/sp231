@@ -1,7 +1,7 @@
 # Operating System Class
 
 
-Hi! This is a github repository for my operating system class. Check out the contents here https://reeyadono.github.io/os212/
+Hi! This is a github repository for my operating system class. Check out the contents here https://reeyadono.github.io/sp231/
 
 
 <br>
