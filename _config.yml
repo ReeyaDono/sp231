@@ -1,18 +1,18 @@
-title:       "Operating Systems 2021-2 (OS212)"
+title:       "System Programming 2023-1 (SP231)"
 version:     "1"
-copyright:   "2021-2021"
+copyright:   "2023-2023"
 description: >- 
-  OS class is fun ngl
+  SP class is fun ngl
 google_analytics: "UA-89852122-13"
 author:           "ReeyaDono"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://reeyadono.github.io/os212/"
+urlweb:           "https://reeyadono.github.io/sp231/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/ReeyaDono/os212"
-urlghpage:        "https://reeyadono.github.io/os212/"
+urlgithub:        "https://github.com/ReeyaDono/sp231"
+urlghpage:        "https://reeyadono.github.io/sp231/"
 keywords:         "jekyll, testing"
 github:           
   - metadata
