@@ -1,7 +1,7 @@
-# Operating System Class
+# System Programming Class
 
 
-Hi! This is a github repository for my operating system class. Check out the contents here https://reeyadono.github.io/sp231/
+Hi! This is a github repository for my system programming class. Check out the contents here https://reeyadono.github.io/sp231/
 
 
 <br>
