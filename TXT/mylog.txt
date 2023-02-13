@@ -6,3 +6,5 @@ ZCZC W00 15 L02 Online zoom class
 ZCZC W00 30 L03 Setting up github repository for sp231
 ZCZC W00 30 L04 Setting up github page
 ZCZC W00 200 L10 Setting up vm and the rest of W00 assignment
+ZCZC W01 100 L02 Attending sysprog class
+ZCZC W01 120 L11 Doing assignment 01
