@@ -11,3 +11,6 @@ ZCZC W01 120 L11 Doing assignment 01
 ZCZC W01 60 L25 Learning makefile
 ZCZC W01 30 L23 Making script for quiz 1
 ZCZC W01 30 L11 Compiling new latest kernel 6.1.12
+ZCZC W02 100 L02 Attending sysprog class
+ZCZC W02 180 L12 Doing assignment w02
+ZCZC W02 30 L25 doing quiz 2
