@@ -14,3 +14,6 @@ ZCZC W01 30 L11 Compiling new latest kernel 6.1.12
 ZCZC W02 100 L02 Attending sysprog class
 ZCZC W02 180 L12 Doing assignment w02
 ZCZC W02 30 L25 doing quiz 2
+ZCZC W03 30 L13 updating kernel
+ZCZC W03 60 L13 doing assignment w03
+ZCZC W03 30 L25 doing quiz 3
