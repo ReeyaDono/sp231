@@ -20,3 +20,5 @@ ZCZC W03 30 L25 doing quiz 3
 ZCZC W04 100 L02 Attending sysprog class and doing programming assignment
 ZCZC W05 110 L02 Attending sysprog class and doing programming assignment
 ZCZC W05 30 L15 Updating kernel and finish the rest of assignment for this week
+ZCZC W06 110 L02 Attending sysprog class and doing programming assignment
+ZCZC W06 60 L24 doing pop quiz
