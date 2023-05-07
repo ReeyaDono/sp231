@@ -24,3 +24,5 @@ ZCZC W06 110 L02 Attending sysprog class and doing programming assignment
 ZCZC W06 60 L24 doing pop quiz
 ZCZC W07 110 L02 Attending sysprog class and doing programming addignment
 ZCZC W07 60 L17 Doing assignment
+ZCZC W08 110 L02 Attending sysprog class and doing programming assignment
+ZCZC W08 60 L18 Doing assignment
